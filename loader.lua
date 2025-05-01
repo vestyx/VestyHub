@@ -12,6 +12,9 @@ local Scripts = {
     [15588442388] = "https://raw.githubusercontent.com/vestyx/PS99/refs/heads/main/PetChanger", -- Pet Simulator 99! Plaza Pro
 
     [112413741511713] = "https://raw.githubusercontent.com/vestyx/VestyHub/refs/heads/main/Mini-City-Tycoon.lua", -- Mini City Tycoon
+
+    [87700573492940] = "https://raw.githubusercontent.com/vestyx/VestyHub/refs/heads/main/untitled%20drill%20game", -- untitled drill game
+
 }
 
 local scriptURL = Scripts[game.PlaceId]
