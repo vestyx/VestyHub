@@ -15,6 +15,7 @@ local Scripts = {
 
     [87700573492940] = "https://raw.githubusercontent.com/vestyx/VestyHub/refs/heads/main/untitled%20drill%20game", -- untitled drill game
 
+    [135972219403244] = "https://raw.githubusercontent.com/vestyx/VestyHub/refs/heads/main/Breeding%20ranch", -- Breeding ranch
 }
 
 local scriptURL = Scripts[game.PlaceId]
